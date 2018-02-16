@@ -60,7 +60,7 @@ header,
     #myBtn {
         height: 30px;
         width: 30px;
-        right: 40%;
+        right: 42%;
         bottom: 2px;
 
     }
@@ -68,7 +68,7 @@ header,
 @media only screen and (min-width: 1024px) {
     #myBtn {
         height: 40px;
-        width: 43px;
+        width: 40px;
         right: 30px;
         bottom: 30px;
     }
